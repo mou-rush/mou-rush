@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Moureen. 👋
 
-<!--
-**mou-rush/mou-rush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, Graphic Designer, and a Foodie. 😄
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on personal reactjs projects
+- 🌱 I’m currently learning Testing, Python and Redux
+- 💬 Ask me about Reactjs.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I used to be a part-time DJ!
+
+
+
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👩‍[linkedin][linkedin]
+
+
+[twitter]: https://twitter.com/resilient_mou
+[instagram]: https://instagram.com/resilient_mou
+[linkedin]: https://linkedin.com/in/moureenhamutenya
