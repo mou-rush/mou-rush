@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on personal reactjs projects
 - 🌱 I’m currently learning Testing, Python and Redux
-- 💬 Ask me about Reactjs.
+- 💬 Ask me about Reactjs
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be a part-time DJ!
 
