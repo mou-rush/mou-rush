@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Testing and Python
 - 💬 Ask me about Reactjs
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I used to be a part-time DJ!
+- ⚡ Fun fact: I used to be a part-time DJ.
 
 
 
