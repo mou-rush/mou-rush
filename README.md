@@ -1,4 +1,4 @@
-### Hi there, I'm Moureen. 👋
+### Hi there. 👋
 
 ## I'm a Developer, Graphic Designer, and a Foodie. 😄
 
