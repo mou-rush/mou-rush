@@ -1,10 +1,10 @@
 ### Hi there, I'm Moureen. 👋
 
-## I'm a Developer, Graphic Designer, and a Foodie. 😄
+## I'm a Front-End Developer, Budding Full Stack Developer and a Foodie. 😄
 
 
-- 🔭 I’m currently working on a personal reactjs project
-- 🌱 I’m currently learning Testing and Node.js
+- 🔭 I’m currently working on a full stack project.
+- 🌱 I’m currently learning Testing and Python(Django).
 - 💬 Ask me about Reactjs
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I used to be a part-time DJ.
