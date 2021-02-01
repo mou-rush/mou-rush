@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on a full stack project.
-- 🌱 I’m currently learning Testing and Python(Django).
+- 🌱 I’m currently learning Testing and NodeJS.
 - 💬 Ask me about Reactjs
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I used to be a part-time DJ.
