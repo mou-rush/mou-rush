@@ -3,7 +3,7 @@
 ## I'm a Front-End Developer, Budding Full Stack Developer and a Foodie. 😄
 
 
-- 🔭 I’m currently working on a full stack project.
+
 - 🌱 I’m currently learning Testing and NodeJS.
 - 💬 Ask me about Reactjs
 - 😄 Pronouns: She/Her
