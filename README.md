@@ -5,8 +5,8 @@
 
 
 - 🌱 I’m currently learning Unit Testing using Jest and Enzyme.
-- 💬 Ask me about ReactJS
-- 😄 Pronouns: She/Her
+- 💬 Ask me about ReactJS and JavaScript.
+- 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I used to be a part-time DJ.
 
 
