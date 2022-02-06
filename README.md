@@ -1,6 +1,6 @@
 ### Hi there, I'm Moureen. 👋
 
-## I'm a Front-End Developer, Budding Full Stack Developer and a Foodie. 😄
+## I'm a Front-End Developer, Budding Full-Stack Developer and a Foodie. 😄
 
 
 
