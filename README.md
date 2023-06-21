@@ -1,62 +1,27 @@
-### Hi there, I'm Moureen. 👋
-
-## I'm a Front-End Developer, Budding Full-Stack Developer and a Foodie. 😄
-
+# 💫 About Me:
+ 🌱 I’m currently learning Unit Testing using Jest and Enzyme.<br>💬 Ask me about ReactJS.<br>😄 Pronouns: She/Her.<br>⚡ Fun fact: I used to be a part-time Disc Jockey.
 
 
-- 🌱 I’m currently learning Unit Testing using Jest and Enzyme.
-- 💬 Ask me about ReactJS.
-- 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I used to be a part-time Disc Jockey.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/resilient_mou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moureenhamutenya/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/resilient_mou) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mou-rush&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mou-rush&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mou-rush&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/resilient_mou)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👩‍[linkedin][linkedin]
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-[twitter]: https://twitter.com/resilient_mou
-[instagram]: https://instagram.com/resilient_mou
-[linkedin]: https://linkedin.com/in/moureenhamutenya
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-## KEY SKILLS :computer:
+[![](https://visitcount.itsvg.in/api?id=mou-rush&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#### LANGUAGES
-<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg"/>|<img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>
-
- 
-<!--
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
--->
-
-#### FRAMEWORKS
-<img alt="React" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg"/>|<img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg"/>
-
-<!--
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=Bootstrap)
--->
-
-#### DATABASE
-<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg"/>|<img alt="Firebase" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg"/>
- 
-<!--
-![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-2E2E2E?style=flat-square&logo=firebase&logoColor=ffcb2b)
--->
-
-#### TOOLS
-<img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"/>|<img alt="GNU Bash" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg"/>
-
-<!--
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-%234EAA25?style=flat-square&logo=GNU-Bash&logoColor=ffffff)
-![JetBrains](http://img.shields.io/badge/-JetBrains-%23000000?style=flat-square&logo=JetBrains)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
--->
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
