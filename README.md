@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🌱 I’m currently learning Unit Testing using Jest and Enzyme.<br>💬 Ask me about ReactJS.<br>😄 Pronouns: She/Her.<br>⚡ Fun fact: I used to be a part-time Disc Jockey.
+ 🌱 I’m currently learning Node.js.<br>💬 Ask me about ReactJS.<br>😄 Pronouns: She/Her.<br>⚡ Fun fact: I used to be a part-time Disc Jockey.
 
 
 ## 🌐 Socials:
