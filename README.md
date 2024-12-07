@@ -1,5 +1,11 @@
-# 💫 About Me:
- 🌱 I’m currently learning Node.js.<br>💬 Ask me about ReactJS.<br>😄 Pronouns: She/Her.<br>⚡ Fun fact: I used to be a part-time Disc Jockey.
+# 💫 About Me:   
+🌟 I’m a frontend developer transitioning into full-stack development 
+🌱 Exploring **blockchain technology** and building exciting projects with **React.js**, **AI**, and **Web3**.  
+💬 Ask me about **ReactJS**,  
+🎧 Fun fact: I used to be a part-time Disc Jockey!  
+😄 Pronouns: She/Her.  
+
+
 
 
 ## 🌐 Socials:
