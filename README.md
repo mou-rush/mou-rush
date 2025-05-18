@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hello World, I'm Moureen!
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%26+Python+Specialist;Web3+Enthusiast;AI+Integration+Expert;Former+DJ+Spinning+Code+Now" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=262526&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%26+Python+Specialist;Web3+And+AI+Enthusiast;Former+DJ+Spinning+Code+Now" alt="Typing SVG" />
 </div>
 🚀 About Me
 
@@ -8,7 +8,7 @@
 
 I'm a versatile full-stack developer blending creativity with technical expertise across the entire development stack. When I'm not crafting clean code or building smart solutions, you’ll probably find me taste-testing my way through local cuisine 😄🍜
 
-🔭 Currently building responsive web applications with React.js, Firebase and Python
+🔭 Currently building responsive web applications with React.js,Next.js, Firebase and Python
 🌱 Learning to build AI Agents and Web3 applications
 👩‍💻 Working on integrating AI solutions into web applications
 🍜 Fun fact: I'm a dedicated foodie always exploring new flavors! Oh, and I used to be a part-time Disc Jockey! 🎧
