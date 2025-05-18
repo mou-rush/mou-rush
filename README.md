@@ -4,7 +4,7 @@
 </div>
 🚀 About Me
 
-"The only way to do great work is to love what you do." — Steve Jobs
+<em>"The only way to do great work is to love what you do." — Steve Jobs </em>
 
 I'm a versatile full-stack developer blending creativity with technical expertise across the entire development stack. When I'm not crafting clean code or building smart solutions, you’ll probably find me taste-testing my way through local cuisine 😄🍜
 
@@ -65,10 +65,7 @@ I'm a versatile full-stack developer blending creativity with technical expertis
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mou-rush&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
-🎵 While I Code...
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=resilient_mou&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-</div>
+
 🎯 Current Projects
 
 - 🤖 Building AI agents that streamline workflows and automate tasks
@@ -85,6 +82,7 @@ I'm a versatile full-stack developer blending creativity with technical expertis
   <a href="mailto:moureenham@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 ✨ Dev Quote of the Day
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
@@ -93,7 +91,7 @@ I'm a versatile full-stack developer blending creativity with technical expertis
   <img src="https://komarev.com/ghpvc/?username=mou-rush&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6ZsXR5t5O6PIhqk0/giphy.gif" width="100" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNnNWU1Znp4Z2dmZzlxdzA3OTNrZmZ0em4wd2N4ZHVpaXk1cHk5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" />
 
   <p><em>Still trying to figure out how to code with coffee in one hand and sushi in the other. 💻☕🍣</em></p>
 </div>
