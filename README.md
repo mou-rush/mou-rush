@@ -8,11 +8,11 @@
 
 I'm a versatile full-stack developer blending creativity with technical expertise across the entire development stack. When I'm not crafting clean code or building smart solutions, you’ll probably find me taste-testing my way through local cuisine 😄🍜
 
-🔭 Currently building responsive web applications with React.js,Next.js, Firebase and Python
-🌱 Learning to build AI Agents and Web3 applications
-👩‍💻 Working on integrating AI solutions into web applications
-🍜 Fun fact: I'm a dedicated foodie always exploring new flavors! Oh, and I used to be a part-time Disc Jockey! 🎧
-😄 Pronouns: She/Her
+- 🔭 Currently building responsive web applications with React.js,Next.js, Firebase and Python
+- 🌱 Learning to build AI Agents and Web3 applications
+- 👩‍💻 Working on integrating AI solutions into web applications
+- 🍜 Fun fact: I'm a dedicated foodie always exploring new flavors! Oh, and I used to be a part-time Disc Jockey! 🎧
+- 😄 Pronouns: She/Her
 
 ⚡ Tech Toolbox
 <table>
@@ -71,10 +71,10 @@ I'm a versatile full-stack developer blending creativity with technical expertis
 </div>
 🎯 Current Projects
 
-🤖 Building AI agents that streamline workflows and automate tasks
-🌐 Developing Web3 applications with React and Ethereum
-📱 Creating responsive full-stack applications with React.js, Firebase, and Python
-🧠 Integrating AI APIs into web interfaces for enhanced user experiences
+- 🤖 Building AI agents that streamline workflows and automate tasks
+- 🌐 Developing Web3 applications with React and Ethereum
+- 📱 Creating responsive full-stack applications with React.js, Firebase, and Python
+- 🧠 Integrating AI APIs into web interfaces for enhanced user experiences
 
 
 💬 Let's Connect!
@@ -92,7 +92,8 @@ I'm a versatile full-stack developer blending creativity with technical expertis
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mou-rush&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
-<!-- Fun footer with food -->
 <div align="center">
-  <pre>if (hungry) { orderFood(); } else if (stuck) { googling.intensifies(); } else { keepCoding(); }</pre>
+  <img src="https://media.giphy.com/media/3o6ZsXR5t5O6PIhqk0/giphy.gif" width="100" />
+
+  <p><em>Still trying to figure out how to code with coffee in one hand and sushi in the other. 💻☕🍣</em></p>
 </div>
