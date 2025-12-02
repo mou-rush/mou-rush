@@ -1,12 +1,10 @@
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hello World, I'm Moureen!
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hello World, I'm Mo!
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=262526&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%26+Python+Specialist;Web3+And+AI+Enthusiast;Former+DJ+Spinning+Code+Now" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=262526&center=true&vCenter=true&width=435&lines=Frontend-Focused Full-Stack Developer;React+%26+Specialist;Web3+And+AI+Enthusiast;Former+DJ+Spinning+Code+Now" alt="Typing SVG" />
 </div>
 🚀 About Me
 
-<em>"The only way to do great work is to love what you do." — Steve Jobs </em>
-
-I'm a versatile full-stack developer blending creativity with technical expertise across the entire development stack. When I'm not crafting clean code or building smart solutions, you’ll probably find me taste-testing my way through local cuisine 😄🍜
+I'm a Frontend-Focused Full-Stack Developer blending creativity with technical expertise across the entire development stack. When I'm not crafting clean code or building smart solutions, you’ll probably find me taste-testing my way through local cuisine 😄🍜
 
 - 🔭 Currently building responsive web applications with React.js,Next.js, Firebase and Python
 - 🌱 Learning to build AI Agents and Web3 applications
