@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hello World, I'm Mo!
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=262526&center=true&vCenter=true&width=435&lines=Frontend-Focused Full-Stack Developer;React+%26+Specialist;Web3+And+AI+Enthusiast;Former+DJ+Spinning+Code+Now" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=262526&center=true&vCenter=true&width=435&lines=Frontend-Focused+Full-Stack+Developer;React+%26+Next.js+Specialist;Web3+And+AI+Enthusiast;Former+DJ+Spinning+Code+Now" alt="Typing SVG" />
 </div>
 🚀 About Me
 
