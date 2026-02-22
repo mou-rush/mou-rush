@@ -56,10 +56,12 @@ I'm a Frontend-Focused Full-Stack Developer blending creativity with technical e
   </tr>
 </table>
 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mou-rush&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mou-rush&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://streak-stats.demolab.com?user=mou-rush&theme=tokyonight&hide_border=true" width="400" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mou-rush&theme=tokyonight&hide_border=true&layout=compact" width="400" />
 </p>
