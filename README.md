@@ -55,20 +55,10 @@ I'm a Frontend-Focused Full-Stack Developer blending creativity with technical e
     </td>
   </tr>
 </table>
-## 📈 GitHub Stats
+📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mou-rush&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mou-rush&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mou-rush&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mou-rush&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mou-rush&theme=tokyonight&utcOffset=2" />
 </p>
 🎯 Current Projects
 
