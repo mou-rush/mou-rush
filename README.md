@@ -54,4 +54,3 @@ WordPress • Figma
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/moureenhamutenya/  
-Email: moureenham@gmail.com
