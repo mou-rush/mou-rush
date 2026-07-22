@@ -43,14 +43,6 @@ WordPress • Figma
 
 ---
 
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mou-rush&theme=tokyonight" />
-</p>
-
----
-
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/moureenhamutenya/  
