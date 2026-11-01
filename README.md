@@ -1,6 +1,6 @@
 # Moureen Hamutenya
 Frontend-Focused Full-Stack Engineer  
-Building scalable, data-intensive web platforms with React, Next.js & TypeScript.
+Building scalable, data-intensive web platforms.
 
 ---
 
@@ -24,7 +24,7 @@ Actively building intelligent automation and AI-powered product experiences.
 React • Next.js • TypeScript • React Native • TanStack Query • Tailwind • Material UI
 
 **Backend**
-Python • Firebase • SQL
+Python • Firebase • Supabase • SQL
 
 **State & Architecture**
 Jotai • Zustand • API Design • Form Systems • Data Grids • Performance Optimization
